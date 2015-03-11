@@ -1,0 +1,12 @@
+#_si { background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.9); border: 3px solid; border-color: #222 transparent #222 #222; border-bottom-left-radius: 3px; border-top-left-radius: 3px; bottom: 23px; color: #bbb; font-family: 'Helvetica Neue', Helvetica,Arial,Sans-serif; font-size: 13px; line-height: 18px; padding: 17px 29px 20px 20px; position: fixed; right: -324px; text-align: left; width: 240px; -webkit-transition: right 200ms ease-out; -moz-transition: right 200ms ease-out; -o-transition: right 200ms ease-out; transition: right 200ms ease-out; }
+#_si a { color: #666; }
+#_si input[ type="checkbox" ], #_si input[ type="radio" ] { margin-right: 9px; }
+#_si input[ type="text" ], #_si label, #_si textarea { margin: 10px 0 15px; }
+#_si label { display: block; }
+#_si span { color: #fff; }
+#_si input[ type="text" ]  { border: none; border-radius: 2px; font-size: 13px; padding: 6px; width: 100%; }
+#_si input[ type="submit" ] { background: #2376a3; border: 1px solid #2376a3; border-radius: 3px; color: #fff; font-size: 12px; padding: 6px 17px; margin: 0 12px 0 0; }
+#_si input[ type="submit" ]:hover { background: #268dc3; border: 1px solid #174C69; }
+#_si input[ type="submit" ]:active { background: #2284ba; border: 1px solid #2376a3; }
+#_si textarea { border-radius: 2px; font-family: sans-serif; font-size: 13px; height: 40px; line-height: 18px; padding: 6px; width: 100%; }
+#_si .thanks { font-size: 17px; font-weight: 300; line-height: 23px; padding: 33px 0; text-align: center; }
